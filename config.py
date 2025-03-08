@@ -7,7 +7,7 @@ CLIENT_SECRETS_FILE = "client_secret.json"  # 从Google Cloud Console下载的OA
 TOKEN_FILE = "token.pickle"  # 存储用户访问令牌的文件
 
 # 频道配置
-CHANNEL_ID = "UCXXXXX"  # 请替换为您的YouTube频道ID
+CHANNEL_ID = "UCXXXXXXXX"  # 请替换为您的YouTube频道ID
 
 # 助记词检测配置
 # BIP39助记词通常包含12、15、18、21或24个单词
