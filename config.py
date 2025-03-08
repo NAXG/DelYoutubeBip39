@@ -12,7 +12,6 @@ CHANNEL_ID = "UCXXXXX"  # 请替换为您的YouTube频道ID
 # 助记词检测配置
 # BIP39助记词通常包含12、15、18、21或24个单词
 MIN_SEED_WORDS = 12  # 最少单词数量，检测到至少这么多助记词单词才会被标记
-MAX_SEED_WORDS = 24  # 最多单词数量，用于提取连续的助记词短语
 
 # BIP39单词列表文件路径
 BIP39_WORDLIST_FILE = "english.txt"  # 包含所有BIP39助记词的文件
