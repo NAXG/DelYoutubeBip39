@@ -1,0 +1,18 @@
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 日志文件
+*.log
+
+# 敏感信息
+token.pickle
+client_secret.json
+
+# 其他
+.DS_Store
+.env
+*.swp
+*.swo
+last_scan_time.json 
